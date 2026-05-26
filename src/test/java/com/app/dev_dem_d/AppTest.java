@@ -9,6 +9,6 @@ public class AppTest {
     @Test
     void testAddition() {
         int sum = 2 + 3;
-        assertEquals(6, sum);
+        assertEquals(5, sum);
     }
 }
